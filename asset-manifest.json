@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/weedingGame/static/css/main.f88ab258.css",
-    "main.js": "/weedingGame/static/js/main.ec3b923c.js",
+    "main.css": "/weedingGame/static/css/main.d5b0e264.css",
+    "main.js": "/weedingGame/static/js/main.3f97ddad.js",
     "static/media/7.jpg": "/weedingGame/static/media/7.136f8232598bad654049.jpg",
     "static/media/1.jpg": "/weedingGame/static/media/1.96ea8f55da3a8442ae79.jpg",
     "static/media/5.jpg": "/weedingGame/static/media/5.9c2fbe6fa735efc50dcb.jpg",
@@ -15,11 +15,11 @@
     "static/media/PixelOperator.ttf": "/weedingGame/static/media/PixelOperator.b42790276a8fc0c79bda.ttf",
     "static/media/player.png": "/weedingGame/static/media/player.bb5d56828c606f6a0f31.png",
     "index.html": "/weedingGame/index.html",
-    "main.f88ab258.css.map": "/weedingGame/static/css/main.f88ab258.css.map",
-    "main.ec3b923c.js.map": "/weedingGame/static/js/main.ec3b923c.js.map"
+    "main.d5b0e264.css.map": "/weedingGame/static/css/main.d5b0e264.css.map",
+    "main.3f97ddad.js.map": "/weedingGame/static/js/main.3f97ddad.js.map"
   },
   "entrypoints": [
-    "static/css/main.f88ab258.css",
-    "static/js/main.ec3b923c.js"
+    "static/css/main.d5b0e264.css",
+    "static/js/main.3f97ddad.js"
   ]
 }
